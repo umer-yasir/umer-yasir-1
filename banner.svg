@@ -1,0 +1,62 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="50%" stop-color="#1f2335"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .float { animation: float 4s ease-in-out infinite; }
+    .float2 { animation: float 5s ease-in-out infinite 1s; }
+    .float3 { animation: float 3.5s ease-in-out infinite 0.5s; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .role { opacity: 0; animation: cycle 9s infinite; }
+    .role1 { animation-delay: 0s; }
+    .role2 { animation-delay: 3s; }
+    .role3 { animation-delay: 6s; }
+    @keyframes cycle {
+      0% { opacity: 0; }
+      5% { opacity: 1; }
+      28% { opacity: 1; }
+      33% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .grow { stroke-dasharray: 260; stroke-dashoffset: 260; animation: grow 2s ease forwards; }
+    @keyframes grow { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect width="900" height="220" fill="url(#bg)" rx="14"/>
+  <circle cx="750" cy="60" r="120" fill="url(#glow)"/>
+  <circle cx="120" cy="180" r="100" fill="url(#glow)"/>
+
+  <text x="60" y="50" font-family="monospace" font-size="22" fill="#414868" class="float">&lt;/&gt;</text>
+  <text x="800" y="180" font-family="monospace" font-size="20" fill="#414868" class="float2">{ }</text>
+  <text x="820" y="60" font-family="monospace" font-size="18" fill="#414868" class="float3">01</text>
+  <text x="40" y="160" font-family="monospace" font-size="18" fill="#414868" class="float2">::</text>
+
+  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="url(#nameGrad)" letter-spacing="2">Umer Yasir</text>
+
+  <line x1="320" y1="122" x2="580" y2="122" stroke="#7aa2f7" stroke-width="2" class="grow"/>
+
+  <text x="450" y="155" text-anchor="middle" font-family="monospace" font-size="18" fill="#c0caf5" class="role role1">Full Stack Software Engineer<tspan class="blink">|</tspan></text>
+  <text x="450" y="155" text-anchor="middle" font-family="monospace" font-size="18" fill="#c0caf5" class="role role2">React.js &amp; Next.js Developer<tspan class="blink">|</tspan></text>
+  <text x="450" y="155" text-anchor="middle" font-family="monospace" font-size="18" fill="#c0caf5" class="role role3">Spring Boot &amp; Node.js Engineer<tspan class="blink">|</tspan></text>
+
+  <text x="450" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#565f89">Building clean, scalable, production-ready software</text>
+</svg>
