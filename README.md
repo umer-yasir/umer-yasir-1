@@ -65,7 +65,7 @@ currently: shipping & leveling up
 
 **Database & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,aws,firebase,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase,vercel,netlify,mariadb"/>
 
 <br/><br/>
 
