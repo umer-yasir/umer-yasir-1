@@ -1,27 +1,223 @@
-# 💫 About Me:
-I'm a passionate Full Stack Software Engineer with hands-on experience in building scalable and efficient web applications. My journey began with an intensive internship focused on the MERN stack, which laid a strong foundation in modern web development. Since then, I’ve transitioned into the industry as a Full Stack Software Engineer and have worked on a variety of real-world projects across both frontend and backend.<br><br>I specialize in technologies like React.js, Next.js, Bootstrap, Spring Boot, Node.js, Java, JSP, and AWS, consistently aiming for clean, maintainable, and production-ready code. From designing responsive user interfaces to architecting robust backend systems, I’m driven by a deep enthusiasm for solving complex problems and building impactful software solutions.
+<div align="center">
 
+<img src="./banner.svg" width="100%" alt="Umer Yasir — Full Stack Software Engineer"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/umer.yasir.927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/umer-yasir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.umeryasir@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umer-yasir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umer-yasir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://www.linkedin.com/in/umer-yasir">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/>
+</a>
+<a href="mailto:umeryasir@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"/>
+</a>
+<a href="https://github.com/umer-yasir">
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5"/>
+</a>
+<a href="https://www.facebook.com/umer.yasir.927">
+  <img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&logoColor=7dcfff"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Umer-Yasir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Umer-Yasir&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 👋 About Me
+
+I'm a **Full Stack Software Engineer** focused on building scalable, maintainable, and production-ready web applications.
+
+I work across the entire development lifecycle — from designing responsive frontends to building backend APIs, database architecture, integrations, and deployment.
+
+I enjoy solving complex engineering problems, improving application performance, and turning ideas into reliable software.
+
+```yaml
+role: Full Stack Software Engineer
+specialization:
+  - React.js
+  - Next.js
+  - Spring Boot
+  - Node.js
+databases:
+  - MySQL
+  - MariaDB
+  - MongoDB
+cloud:
+  - AWS
+  - S3
+  - EC2
+philosophy: "Simple, maintainable, production-ready"
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Umer-Yasir&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css"/>
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,threejs"/>
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,socketio"/>
+
+<br/><br/>
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,aws,firebase,vercel,netlify"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,npm,docker"/>
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+* Responsive React & Next.js applications
+* Admin dashboards
+* Business portals
+* Real-time applications
+* REST API integrations
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+* Spring Boot APIs
+* Node.js & Express services
+* Database architecture
+* Authentication & authorization
+* Background jobs & automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Deployment
+
+* AWS EC2
+* Amazon S3
+* Server configuration
+* Nginx
+* PM2
+* Docker
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Engineering
+
+* Performance optimization
+* Scalable architecture
+* Database optimization
+* Third-party integrations
+* Production troubleshooting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<!-- Replace these with your actual repository names -->
+
+<a href="https://github.com/umer-yasir/REPO_NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umer-yasir&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/umer-yasir/REPO_NAME_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umer-yasir&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umer-yasir&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=umer-yasir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umer-yasir&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=umer-yasir&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/umer-yasir/umer-yasir/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building clean, scalable, production-ready software."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=3&width=900"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=umer-yasir&label=Profile%20Views&color=7aa2f7&style=flat" />
+
+</div>
