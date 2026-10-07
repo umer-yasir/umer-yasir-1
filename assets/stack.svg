@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0d0e16"/><stop offset="0.55" stop-color="#111322"/><stop offset="1" stop-color="#090a10"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/></pattern>
+  <style>
+    .t{font-family:Inter,Arial,sans-serif;fill:#f8fafc} .m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#94a3b8}
+    .s{fill:#64748b;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:14px}
+  </style>
+</defs>
+<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="560" rx="30" fill="url(#dots)"/>
+<rect x="2" y="2" width="1196" height="556" rx="28" fill="none" stroke="url(#aurora)" stroke-opacity=".45"/>
+<circle cx="1050" cy="80" r="140" fill="#a78bfa" opacity=".08" filter="url(#glow)"/>
+<text x="60" y="68" class="s">UMER-YASIR / PROFILE MODULE</text>
+<text x="60" y="125" class="t" font-size="42" font-weight="800">Technology Orbit</text>
+<text x="60" y="160" class="m" font-size="18">A practical stack for full-stack and backend engineering</text>
+
+<g transform="translate(600 330)">
+ <circle r="65" fill="#0f172a" stroke="url(#aurora)" stroke-width="3" filter="url(#glow)"/>
+ <text x="-25" y="8" class="t" font-size="25" font-weight="800">UY</text>
+ <ellipse rx="270" ry="95" fill="none" stroke="#22d3ee" stroke-opacity=".5" stroke-width="2" transform="rotate(-10)">
+   <animateTransform attributeName="transform" type="rotate" from="-10 0 0" to="350 0 0" dur="12s" repeatCount="indefinite"/>
+ </ellipse>
+ <ellipse rx="330" ry="135" fill="none" stroke="#a78bfa" stroke-opacity=".45" stroke-width="2" transform="rotate(55)">
+   <animateTransform attributeName="transform" type="rotate" from="55 0 0" to="-305 0 0" dur="16s" repeatCount="indefinite"/>
+ </ellipse>
+ <ellipse rx="385" ry="165" fill="none" stroke="#f472b6" stroke-opacity=".35" stroke-width="2" transform="rotate(-55)">
+   <animateTransform attributeName="transform" type="rotate" from="-55 0 0" to="305 0 0" dur="20s" repeatCount="indefinite"/>
+ </ellipse>
+ <g class="t" font-size="17" text-anchor="middle">
+   <text x="-265" y="-105">Java</text><text x="265" y="-105">React</text>
+   <text x="-330" y="110">AWS</text><text x="330" y="110">Node.js</text>
+   <text x="0" y="-150">Spring Boot</text><text x="0" y="155">SQL</text>
+ </g>
+</g>
+<g transform="translate(60 215)">
+ <text x="0" y="0" class="s">CORE STACK</text>
+ <g font-family="ui-monospace,monospace" font-size="15" fill="#cbd5e1">
+  <text y="38">Frontend     React • Next.js • Tailwind</text>
+  <text y="72">Backend      Java • Spring Boot • Node.js</text>
+  <text y="106">Data         MySQL • MariaDB • PostgreSQL • MongoDB</text>
+  <text y="140">Cloud        AWS • Docker • Nginx • PM2</text>
+  <text y="174">Engineering  REST APIs • JWT • RBAC • JPA/Hibernate</text>
+ </g>
+</g>
+
+<text x="60" y="525" class="s">JAVA • SPRING BOOT • REACT • NEXT.JS • NODE.JS • AWS</text>
+</svg>

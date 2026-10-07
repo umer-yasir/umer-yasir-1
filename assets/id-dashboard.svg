@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0d0e16"/><stop offset="0.55" stop-color="#111322"/><stop offset="1" stop-color="#090a10"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/></pattern>
+  <style>
+    .t{font-family:Inter,Arial,sans-serif;fill:#f8fafc} .m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#94a3b8}
+    .s{fill:#64748b;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:14px}
+  </style>
+</defs>
+<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="560" rx="30" fill="url(#dots)"/>
+<rect x="2" y="2" width="1196" height="556" rx="28" fill="none" stroke="url(#aurora)" stroke-opacity=".45"/>
+<circle cx="1050" cy="80" r="140" fill="#f472b6" opacity=".08" filter="url(#glow)"/>
+<text x="60" y="68" class="s">UMER-YASIR / PROFILE MODULE</text>
+<text x="60" y="125" class="t" font-size="42" font-weight="800">ID + Engineering Dashboard</text>
+<text x="60" y="160" class="m" font-size="18">A compact snapshot of my engineering focus</text>
+
+<g transform="translate(60 205)">
+ <rect width="420" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="25" y="38" class="s">IDENTITY</text>
+ <circle cx="75" cy="115" r="52" fill="#0f172a" stroke="url(#aurora)" stroke-width="3">
+  <animate attributeName="r" values="50;55;50" dur="3s" repeatCount="indefinite"/>
+ </circle>
+ <text x="75" y="123" class="t" font-size="28" text-anchor="middle" font-weight="800">UY</text>
+ <text x="150" y="105" class="t" font-size="24" font-weight="700">Umer Yasir</text>
+ <text x="150" y="134" class="m" font-size="14">Software Engineer</text>
+ <text x="150" y="160" class="m" font-size="14">CodeHoppers</text>
+ <rect x="25" y="205" width="370" height="4" fill="#1e293b"/>
+ <rect x="25" y="205" width="240" height="4" fill="url(#aurora)"><animate attributeName="width" values="80;240;80" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(530 205)">
+ <rect width="610" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="25" y="38" class="s">ENGINEERING DASHBOARD</text>
+ <g font-family="Inter,Arial,sans-serif" fill="#f8fafc">
+  <text x="25" y="82" font-size="18">Backend</text><text x="180" y="82" font-size="18">████████████</text>
+  <text x="25" y="122" font-size="18">Full Stack</text><text x="180" y="122" font-size="18">██████████</text>
+  <text x="25" y="162" font-size="18">Cloud</text><text x="180" y="162" font-size="18">████████</text>
+  <text x="25" y="202" font-size="18">AI / LLM</text><text x="180" y="202" font-size="18">██████</text>
+ </g>
+ <text x="25" y="232" class="m" font-size="13">Values are visual focus indicators, not measured metrics.</text>
+</g>
+
+<text x="60" y="525" class="s">JAVA • SPRING BOOT • REACT • NEXT.JS • NODE.JS • AWS</text>
+</svg>

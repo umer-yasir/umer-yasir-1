@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0d0e16"/><stop offset="0.55" stop-color="#111322"/><stop offset="1" stop-color="#090a10"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/></pattern>
+  <style>
+    .t{font-family:Inter,Arial,sans-serif;fill:#f8fafc} .m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#94a3b8}
+    .s{fill:#64748b;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:14px}
+  </style>
+</defs>
+<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="560" rx="30" fill="url(#dots)"/>
+<rect x="2" y="2" width="1196" height="556" rx="28" fill="none" stroke="url(#aurora)" stroke-opacity=".45"/>
+<circle cx="1050" cy="80" r="140" fill="#a78bfa" opacity=".08" filter="url(#glow)"/>
+<text x="60" y="68" class="s">UMER-YASIR / PROFILE MODULE</text>
+<text x="60" y="125" class="t" font-size="42" font-weight="800">What I Build</text>
+<text x="60" y="160" class="m" font-size="18">Products, platforms, APIs and production systems</text>
+
+<g transform="translate(60 205)">
+ <rect width="525" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="28" y="42" class="s">WHAT I BUILD</text>
+ <g font-family="Inter,Arial,sans-serif" fill="#f8fafc" font-size="19">
+  <text x="30" y="82">▹ Enterprise web applications</text>
+  <text x="30" y="122">▹ REST APIs & backend systems</text>
+  <text x="30" y="162">▹ Data-driven business platforms</text>
+  <text x="30" y="202">▹ Cloud deployment & production systems</text>
+ </g>
+</g>
+<g transform="translate(615 205)">
+ <rect width="525" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="28" y="42" class="s">INTERESTS / NOW</text>
+ <g font-family="Inter,Arial,sans-serif" fill="#f8fafc" font-size="19">
+  <text x="30" y="82">01  Backend architecture</text>
+  <text x="30" y="122">02  AI / LLM engineering</text>
+  <text x="30" y="162">03  System design & APIs</text>
+  <text x="30" y="202">04  Continuous learning</text>
+ </g>
+ <rect x="30" y="220" width="460" height="5" rx="3" fill="#1e293b"/>
+ <rect x="30" y="220" width="310" height="5" rx="3" fill="url(#aurora)">
+  <animate attributeName="width" values="80;310;80" dur="4s" repeatCount="indefinite"/>
+ </rect>
+</g>
+
+<text x="60" y="525" class="s">JAVA • SPRING BOOT • REACT • NEXT.JS • NODE.JS • AWS</text>
+</svg>

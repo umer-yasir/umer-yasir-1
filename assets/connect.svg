@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0d0e16"/><stop offset="0.55" stop-color="#111322"/><stop offset="1" stop-color="#090a10"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/></pattern>
+  <style>
+    .t{font-family:Inter,Arial,sans-serif;fill:#f8fafc} .m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#94a3b8}
+    .s{fill:#64748b;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:14px}
+  </style>
+</defs>
+<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="560" rx="30" fill="url(#dots)"/>
+<rect x="2" y="2" width="1196" height="556" rx="28" fill="none" stroke="url(#aurora)" stroke-opacity=".45"/>
+<circle cx="1050" cy="80" r="140" fill="#22d3ee" opacity=".08" filter="url(#glow)"/>
+<text x="60" y="68" class="s">UMER-YASIR / PROFILE MODULE</text>
+<text x="60" y="125" class="t" font-size="42" font-weight="800">Connect</text>
+<text x="60" y="160" class="m" font-size="18">Open to meaningful engineering collaborations</text>
+
+<g transform="translate(60 205)">
+ <rect width="430" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="215" y="78" class="t" text-anchor="middle" font-size="42" font-weight="800">→</text>
+ <text x="215" y="130" class="t" text-anchor="middle" font-size="26" font-weight="700">Let's build something</text>
+ <text x="215" y="162" class="m" text-anchor="middle" font-size="15">systems • products • ideas</text>
+ <circle cx="215" cy="205" r="20" fill="#22d3ee" opacity=".15">
+   <animate attributeName="r" values="15;28;15" dur="2.5s" repeatCount="indefinite"/>
+ </circle>
+</g>
+<g transform="translate(555 205)">
+ <rect width="585" height="250" rx="22" fill="#111322" stroke="#334155"/>
+ <text x="28" y="40" class="s">CONNECT</text>
+ <g font-family="ui-monospace,monospace" font-size="18" fill="#e2e8f0">
+  <text x="28" y="84">GitHub       github.com/umer-yasir</text>
+  <text x="28" y="126">LinkedIn     linkedin.com/in/umeryasir</text>
+  <text x="28" y="168">Portfolio    umeryasir.netlify.app</text>
+  <text x="28" y="210">Location     Lahore, Pakistan</text>
+ </g>
+</g>
+
+<text x="60" y="525" class="s">JAVA • SPRING BOOT • REACT • NEXT.JS • NODE.JS • AWS</text>
+</svg>
