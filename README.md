@@ -1,6 +1,6 @@
 <!-- Umer Yasir — GitHub Profile README -->
 <p align="center">
-  <img src="assets/hero.svg" alt="Umer Yasir animated hero" width="100%">
+  <img src="https://raw.githubusercontent.com/umer-yasir/umer-yasir/main/assets/hero.svg" alt="Umer Yasir animated hero" width="100%">
 </p>
 
 <p align="center">
