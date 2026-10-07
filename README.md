@@ -2,7 +2,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/umer-yasir/umer-yasir/main/assets/hero.svg" alt="Umer Yasir animated hero" width="100%">
 </p>
-
+<p align="center">
+  <a href="https://github.com/umer-yasir">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Java+%2B+Spring+Boot+Architect;React+%2F+Next.js+%2B+Node.js+Developer;Cloud+%26+DevOps+Practitioner" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/umer-yasir">GitHub</a> •
   <a href="https://www.linkedin.com/in/umeryasir/">LinkedIn</a> •
