@@ -28,7 +28,7 @@ Engineering    REST APIs • JWT • RBAC • JPA/Hibernate
 ```
 
 <p align="center">
-  <img src="assets/about-life.svg" alt="What I build and current interests" width="100%">
+  <img src="https://github.com/umer-yasir/umer-yasir/blob/main/assets/about-life.svg" alt="What I build and current interests" width="100%">
 </p>
 
 ## Tech Stack
