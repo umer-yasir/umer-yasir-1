@@ -28,19 +28,19 @@ Engineering    REST APIs • JWT • RBAC • JPA/Hibernate
 ```
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=1" alt="What I build and current interests" width="100%">
+  <img src="assets/about-life.svg" alt="What I build and current interests" width="100%">
 </p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/stack.svg?v=1" alt="Animated technology orbit" width="100%">
+  <img src="assets/stack.svg" alt="Animated technology orbit" width="100%">
 </p>
 
 ## Engineering Snapshot
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=1" alt="Umer Yasir engineering dashboard" width="100%">
+  <img src="assets/id-dashboard.svg" alt="Umer Yasir engineering dashboard" width="100%">
 </p>
 
 ## Selected Work
