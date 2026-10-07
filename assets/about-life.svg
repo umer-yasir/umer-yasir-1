@@ -25,10 +25,10 @@
  <rect width="525" height="250" rx="22" fill="#111322" stroke="#334155"/>
  <text x="28" y="42" class="s">WHAT I BUILD</text>
  <g font-family="Inter,Arial,sans-serif" fill="#f8fafc" font-size="19">
-  <text x="30" y="82">▹ Enterprise web applications</text>
-  <text x="30" y="122">▹ REST APIs & backend systems</text>
-  <text x="30" y="162">▹ Data-driven business platforms</text>
-  <text x="30" y="202">▹ Cloud deployment & production systems</text>
+  <text x="30" y="82">▸ Enterprise web applications</text>
+  <text x="30" y="122">▸ REST APIs &amp; backend systems</text>
+  <text x="30" y="162">▸ Data-driven business platforms</text>
+  <text x="30" y="202">▸ Cloud deployment &amp; production systems</text>
  </g>
 </g>
 <g transform="translate(615 205)">
@@ -37,7 +37,7 @@
  <g font-family="Inter,Arial,sans-serif" fill="#f8fafc" font-size="19">
   <text x="30" y="82">01  Backend architecture</text>
   <text x="30" y="122">02  AI / LLM engineering</text>
-  <text x="30" y="162">03  System design & APIs</text>
+  <text x="30" y="162">03  System design &amp; APIs</text>
   <text x="30" y="202">04  Continuous learning</text>
  </g>
  <rect x="30" y="220" width="460" height="5" rx="3" fill="#1e293b"/>
