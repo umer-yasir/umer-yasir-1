@@ -19,7 +19,7 @@
 <circle cx="1050" cy="80" r="140" fill="#22d3ee" opacity=".08" filter="url(#glow)"/>
 <text x="60" y="68" class="s">UMER-YASIR / PROFILE MODULE</text>
 <text x="60" y="125" class="t" font-size="42" font-weight="800">Hi there, I'm Umer Yasir</text>
-<text x="60" y="160" class="m" font-size="18">Full Stack Software Engineer • Backend & Systems</text>
+<text x="60" y="160" class="m" font-size="18">Full Stack Software Engineer • Backend &amp; Systems</text>
 
 <g transform="translate(60 210)">
   <rect x="0" y="0" width="610" height="220" rx="22" fill="#0b0c13" stroke="#334155"/>
