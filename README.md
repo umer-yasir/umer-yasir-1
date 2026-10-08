@@ -75,6 +75,4 @@ The contribution city below is generated automatically and refreshed by GitHub A
   <a href="https://umeryasir.netlify.app/">Portfolio</a>
 </p>
 
-<p align="center">
-  <sub>Build useful things. Keep learning. Keep shipping.</sub>
-</p>
+
